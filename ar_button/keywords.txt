@@ -1,0 +1,6 @@
+ar_button	KEYWORD1
+check		KEYWORD2
+pcfpin	KEYWORD2
+press		KEYWORD2
+long_press		KEYWORD2
+begin		KEYWORD2
